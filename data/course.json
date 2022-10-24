@@ -1,0 +1,80 @@
+[
+    {
+        "_id": "c1",
+        "title": "Full Stack Development Program With Real Work-Ex",
+        "img": "https://img.freepik.com/free-vector/desktop-smartphone-app-development_23-2148683810.jpg?w=740&t=st=1666637824~exp=1666638424~hmac=2790e6f1aadd9a279b9eca7e2482d42af76ab46d3d07ba069f51c8088a013426",
+        "description": "Master full stack development like engineers working in Netflix, Amazon, Flipkart and Google. Build professional work-like projects to master React, Node JS,MongoDB, Javascript, and more to land a top career as a full-stack developer.",
+        "price": "$44",
+        "duration": {
+            "platform": "Fully Online",
+            "time": "6 Months"
+        },
+        "ratings": "4.9(15k)",
+        "category_id": "1"
+    },
+    {
+        "_id": "c2",
+        "title": "Frontend Development Program With Real Work-Ex",
+        "img": "https://img.freepik.com/free-vector/frontend-development-concept-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-2357.jpg?w=826&t=st=1666638986~exp=1666639586~hmac=ac85b00829d275931df54e95d42cf86bc549bdff3ab4d42368023ca8a432e24f",
+        "description": "Master frontend development like proffessionals working in Netflix, Amazon, Flipkart and Google. Build professional work-like projects to master React, Angular,Javascript, Vue, and more to land a top career as a frontend developer.",
+        "price": "$30",
+        "duration": {
+            "platform": "Fully Online",
+            "time": "4 Months"
+        },
+        "ratings": "4.8(13k)",
+        "category_id": "2"
+    },
+    {
+        "_id": "c3",
+        "title": "Backend Development Program With Real Work-Ex",
+        "img": "https://img.freepik.com/free-vector/hand-drawn-flat-design-sql-illustration_23-2149242070.jpg?w=740&t=st=1666639206~exp=1666639806~hmac=c82e6a4820d2822541e0ccda84c291a000cb38a629948c74951155f944f61c42",
+        "description": "Master backend development like professionals working in Swiggy, Zerodha, and more. Build real work-like projects to gain work experience in Java, RestAPI,Spring Boot, and more to land a top career as a backend developer.",
+        "price": "$40",
+        "duration": {
+            "platform": "Fully Online",
+            "time": "6 Months"
+        },
+        "ratings": "4.9(19k)",
+        "category_id": "3"
+    },
+    {
+        "_id": "c4",
+        "title": "Learn UI/UX designing With Real Work-Ex",
+        "img": "https://img.freepik.com/free-vector/graphic-design-video-tutorial-traditional-art-internet-course-painter-online-masterclass-web-designer-distance-class-painting-e-learning-education_335657-2648.jpg?w=740&t=st=1666639409~exp=1666640009~hmac=20403989b1bccdf41e3203708a93d20c33f6ceddfcce6c48e12ad24bafd4dcda",
+        "description": "Execute one project towards solving a real-world problem. Through mentor-guided activities, follow a user-centered process to create a user-friendly application.UI UX Design Course from Skill Edge ensures that you’ll learn the latest research methods, ideation, and visual design skill through interactive examples (Dotspot Experiences).",
+        "price": "$25",
+        "duration": {
+            "platform": "Fully Online",
+            "time": "3 Months"
+        },
+        "ratings": "4.7(7k)",
+        "category_id": "4"
+    },
+    {
+        "_id": "c5",
+        "title": "Learn Graphics Design With Real Work-Ex",
+        "img": "https://img.freepik.com/free-vector/designer-life-concept-illustration_114360-1537.jpg?w=740&t=st=1666639709~exp=1666640309~hmac=c25afbae9df48c931ef9f1b872e135baa48e0ad3c243bbc05b4267b476a4a931",
+        "description": "The Graphic Design programme teaches you how to visualise an idea from concept to impactful communications. Learn to design brand identities, web pages, social media posts, brochures, etc. Create a portfolio based on real-world projects as part of the course and get hired by top brands. Choose from a part-time 20-week Diploma course or a full-time 40-week Postgraduate Diploma course..",
+        "price": "$27",
+        "duration": {
+            "platform": "Fully Online",
+            "time": "4 Months"
+        },
+        "ratings": "4.8(9k)",
+        "category_id": "5"
+    },
+    {
+        "_id": "c6",
+        "title": "Learn search engine optimization With Real Work-Ex",
+        "img": "https://img.freepik.com/free-vector/seo-concept-illustration_114360-5766.jpg?w=740&t=st=1666639882~exp=1666640482~hmac=c1129ebb1217a83d6a52cde343f219bee13c1c9e229780763d8df9d15d18f8ac",
+        "description": "In this search engine optimization course, you will learn precisely how to optimize your website so you can work towards showing up on Google’s first page using your most profitable keywords and start selling more products and services. SEO is a great way to get free traffic. In this course, you will learn the fundamentals of SEO and how to use it to your advantage so that search engines like Google rank your website as highly as possible..",
+        "price": "$30",
+        "duration": {
+            "platform": "Fully Online",
+            "time": "5 Months"
+        },
+        "ratings": "4.9(10k)",
+        "category_id": "6"
+    }
+]
