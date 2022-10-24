@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Full Stack Development"
+    },
+    {
+        "id": "2",
+        "name": "Frontend Development"
+    },
+    {
+        "id": "3",
+        "name": "Backend Development"
+    },
+    {
+        "id": "4",
+        "name": "UI/UX Designing"
+    },
+    {
+        "id": "5",
+        "name": "Learn Photoshop"
+    },
+    {
+        "id": "6",
+        "name": "Learn SEO"
+    }
+]
